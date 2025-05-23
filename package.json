@@ -1,0 +1,22 @@
+{
+  "name": "@apifant/run",
+  "version": "1.0.0",
+  "description": "Support functions to run in the APIfant environment.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apifant/run.git"
+  },
+  "keywords": [
+    "apifant"
+  ],
+  "author": "Apifant GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apifant/run/issues"
+  },
+  "homepage": "https://github.com/apifant/run#readme"
+}
