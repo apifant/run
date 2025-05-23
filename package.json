@@ -1,6 +1,6 @@
 {
   "name": "@apifant/run",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Support functions to run in the APIfant environment.",
   "main": "main.js",
   "scripts": {
