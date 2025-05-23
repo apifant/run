@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext" /* Specify what module code is generated. */,
+    "moduleResolution": "NodeNext",
+    "target": "ESNext",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": false,
+    "skipLibCheck": true,
+  },
+  "include": [
+    "./src"
+  ]
+}

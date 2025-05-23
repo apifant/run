@@ -1,0 +1,10 @@
+node_modules
+tmp
+log
+.env
+*.tgz
+*.tmp
+!releases/*.tgz
+**/__llm/*
+/*.prompt
+core.dump
